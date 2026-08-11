@@ -24,3 +24,24 @@ No terminal, execute:
 
 ```bash
 pip install pygame
+
+### 3. Faça o Download do meu repositório
+
+Download.ZIP
+
+### 4. Entre no arquivo que se encontra "Snake_Game.py"
+
+Nos seus arquivos, vá até o Snake_Game.
+
+### 5. Abra o Terminal e execute o game
+
+Com o botão direito, abra o terminal onde se encontra o Snake_Game.py,
+em seguida digite:
+
+```bash
+python3 Snake_Game.py
+
+## Ou
+
+```bash
+python Snake_Game.py
