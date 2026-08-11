@@ -2,6 +2,8 @@
 
 Um jogo da cobrinha desenvolvido em Python utilizando a biblioteca Pygame.
 
+![Demonstração do Snake Game](assets/Snake_Game.mp4)
+
 ## 🎮 Sobre o projeto
 
 Este projeto foi desenvolvido com o objetivo de praticar lógica de programação,
