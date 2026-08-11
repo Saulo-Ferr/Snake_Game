@@ -1,4 +1,4 @@
-# 🐍 Snake Game
+# 🐍 Snake Game V1.0
 
 Um jogo da cobrinha desenvolvido em Python utilizando a biblioteca Pygame.
 
